@@ -1,3 +1,3 @@
 # test_repository
 
-#this i just a test repository cuz i learing how git works 
+#this i just a test repository cuz i am learing how git works 
